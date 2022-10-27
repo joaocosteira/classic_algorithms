@@ -8,4 +8,4 @@ def linear_search(list,item):
 
 print(linear_search(list(range(10,100,10)),90))
 
-#O(N)
+#O(n)

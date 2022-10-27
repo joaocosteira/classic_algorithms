@@ -18,4 +18,4 @@ def binary_search(list, item):
 
 print(binary_search(list(range(0,1000,10)), 500))
 
-#O(log2 N)
+#O(log2 n)
