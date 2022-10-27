@@ -16,7 +16,6 @@ def binary_search(list, item):
                 low = mid + 1
     return  None
 
-
-
-
 print(binary_search(list(range(0,1000,10)), 500))
+
+#O(log2 N)
